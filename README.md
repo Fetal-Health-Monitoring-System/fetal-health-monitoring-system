@@ -15,10 +15,10 @@ conda activate fhms-bpit
 pip install -r requirements.txt
 
 ```
-The dataset used has been made available [here](https://www.kaggle.com/datasets/jai132/fhms-ultrasound-dataset) & the weights file obtained through our experimentation can be accessed [here](https://drive.google.com/file/d/1yXBoMqY4Ucmunrnb4U6w4qg_-FV8QtOY/view?usp=sharing)
+The dataset used has been made available [here](https://www.kaggle.com/datasets/jai132/fhms-ultrasound-dataset) & the weights file obtained through our experimentation can be accessed [here](https://drive.google.com/drive/folders/1937zDXiLytjdTQn8aMLi5ZkS-rsGjIH6?usp=sharing)
 
 
 
 Checkout our paper page : https://fetal-health-monitoring-system.github.io/project-page.github.io/
 
-Also checkout our Google [Colab notebook](https://colab.research.google.com/drive/1lohYcGKxdpSvUYXT65DdWQsCPrCVjLNJ?usp=sharing)
+Also checkout our Google [Colab notebook](https://colab.research.google.com/drive/125gyMn7xqU3Tks08HbBbOtxRbP9sO_td?usp=sharing)
